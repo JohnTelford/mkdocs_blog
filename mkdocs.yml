@@ -1,0 +1,39 @@
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navitation.path
+    - navigation.prune
+    - navigation.top
+    - navigation.sections
+    - navigation.tracking
+
+
+
+site_name: TechTalkJohn Blog
+
+plugins:
+  - blog:
+      blog_dir: blog
+      archive: false
+      categories: true
+      categories_name: Categories
+      categories_toc: true
+      post_date_format: medium
+      post_url_format: date      
+      categories_allowed:
+        - Search
+        - Performance
+
+  - search:
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+repo_url: https://github.com/JohnTelford/mkdocs_blog.git
+
+copyright: Copyright &copy; 2023 John M. Telford
