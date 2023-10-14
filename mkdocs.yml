@@ -5,8 +5,8 @@ theme:
     # - navigation.instant.progress
     - navitation.path
     - navigation.prune
-    - navigation.top
-    - navigation.sections
+    # - navigation.top
+    # - navigation.sections
     - navigation.tracking
 
 
