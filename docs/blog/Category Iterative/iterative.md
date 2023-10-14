@@ -2,7 +2,7 @@
 draft: true
 date: 2023-08-28
 categories:
-    - Interactive
+    - Iterative
 ---
 
 # Iterative Website Development

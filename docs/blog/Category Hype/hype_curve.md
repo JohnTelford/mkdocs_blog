@@ -2,7 +2,7 @@
 draft: true 
 date: 2023-09-26
 categories:
-  - Tech Hype Curve
+  - Hype Curve
 ---
 
 ## Technology Hype Curve

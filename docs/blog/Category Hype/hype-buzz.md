@@ -1,3 +1,10 @@
+---
+draft: true 
+date: 2023-09-26
+categories:
+  - Tech Hype Curve
+---
+
 # Hype Buzz Words
 
 - Begins

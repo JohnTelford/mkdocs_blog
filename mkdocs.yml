@@ -1,7 +1,8 @@
 theme:
   name: material
   features:
-    - navigation.instant
+    # - navigation.instant
+    # - navigation.instant.progress
     - navitation.path
     - navigation.prune
     - navigation.top
@@ -22,8 +23,10 @@ plugins:
       post_date_format: medium
       post_url_format: date      
       categories_allowed:
-        - Search
-        - Performance
+        - Hype Curve
+        - Iterative
+
+      categories_url_format: "category/{slug}"
 
   - search:
 
