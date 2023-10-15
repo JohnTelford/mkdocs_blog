@@ -1,8 +1,8 @@
 ---
 draft: true
-date: 2023-08-28
+date: 2023-09-28
 categories:
-    - Iterative
+    - iterative
 ---
 
 # Iterative Website Development
