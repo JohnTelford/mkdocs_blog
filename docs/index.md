@@ -12,3 +12,8 @@ I have a passion pursuing what’s new and improved with these industries. Check
 
 I am an Electronics, Software, and Web Engineer specializing in website hardware and software technologies.
 
+## Blog Organization
+
+- The blog is organized using categories.
+
+- Use `Search` to find things.
