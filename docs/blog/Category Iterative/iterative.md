@@ -38,7 +38,7 @@ Developer changes can not be directly committed to the Main Project Repository. 
 
 ## Local Static Site Generator
 
-Developers use the local Static Generator built-into Material for development or a private website for stakeholders
+Developers use the `Local Static Generator` built-into Material for development or a private website for stakeholders
 
 Developers  Local Project Repository
 
