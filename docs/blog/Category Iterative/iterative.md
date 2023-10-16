@@ -13,7 +13,65 @@ date: 2023-08-28
   <figcaption>Iterative Website Development Stack</figurecaption>
 </figure>
 
+# Key Technologies
 
+## VSCode
+
+Command and Control
+
+Text Editor
+
+Git / GitHub
+
+Command Line
+
+## Local Project Repository
+
+Developers creates a private copy of the Main Project
+Repository in their GitHub account using the git fork
+command.
+
+Developer changes can not be directly applied to the
+Main Project Repository.
+
+A git pull request notifies the Repository Guardian of
+developer changes to be applied to the Main Project
+Repository after review and testing.
+
+Developer use git commit for changes to their GitHub
+private copy of the Main Project Repository
+
+## Local Static Site Generator
+
+Material Mkdocs
+
+Uses Local Project Repository
+
+## GitHub
+
+Notify The Content Delivery Network when a Developers or  the Repository Guardian repository has been updated
+
+## Content Delivery Network
+
+Create and deploys website using a Static Site Generator when notified by GitHub
+
+The Repository Guardian create and deploy the main project website or a private website for stakeholders.
+
+Developers create and deploys a private preview website for stakeholders
+
+## Main Project Repository
+
+Developers do not have direct access. They can clone it but not directly commit changes
+
+## Repository Management
+
+The Repository Guardian and other team members evaluate and approve team members git pull requests central repository
+
+The Repository Guardian requests Content Delivery Network to deploy private preview website for stakeholders.
+
+The Repository Guardian requests Content Delivery Network to deploy a production website following the consensus of stakeholders
+
+---
 
 - Iterative website development is done by different [Teams](../team_overview.md) with different responsibilities and skills.
  

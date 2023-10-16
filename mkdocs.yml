@@ -1,6 +1,7 @@
 theme:
   name: material
   features:
+    - content.tabs.link
     # - navigation.instant
     # - navigation.instant.progress
     - navitation.path
@@ -37,6 +38,7 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences:
+
 
 repo_url: https://github.com/JohnTelford/mkdocs_blog.git
 
