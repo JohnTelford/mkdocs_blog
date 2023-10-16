@@ -27,26 +27,22 @@ Command Line
 
 ## Local Project Repository
 
-Developers creates a private copy of the Main Project
-Repository in their GitHub account using the git fork
-command.
+Developers creates a private copy of the Main Project Repository in their GitHub 
+account using the `git fork` command.
 
-Developer changes can not be directly applied to the
-Main Project Repository.
+Developer use `git commit` for changes to their private copy of the Main Project Repository
 
-A git pull request notifies the Repository Guardian of
-developer changes to be applied to the Main Project
-Repository after review and testing.
+Developer changes can not be directly committed to the Main Project Repository. They use the `git pull` command to request the Repository Guardian add the changes to the Main Project Repository after review and testing.
 
-Developer use git commit for changes to their GitHub
-private copy of the Main Project Repository
+## Markdown
 
 ## Local Static Site Generator
 
-Material Mkdocs
+Developers use the local Static Generator built-into Material for development or a private website for stakeholders
 
-Uses Local Project Repository
+Developers  Local Project Repository
 
+The
 ## GitHub
 
 Notify The Content Delivery Network when a Developers or  the Repository Guardian repository has been updated
