@@ -8,6 +8,13 @@ date: 2023-08-28
 ??? abstract "Purpose"
     The purpose of Iterative Website Development is to minimize website projects life time costs
 
+<figure markdown>
+  ![Dev Stack](../img/Iterative_Website_Stack.png){width="800"}
+  <figcaption>Iterative Website Development Stack</figurecaption>
+</figure>
+
+
+
 - Iterative website development is done by different [Teams](../team_overview.md) with different responsibilities and skills.
  
 - The Define, Design, Develop, Deploy and Maintenance team members create, test and [Remediating Defects](defect_remediation_cost.md)​. All team members may be operational at the same time without interfering with each other, or the production website, during the lifetime of the website

@@ -7,10 +7,10 @@ date: 2023-09-25
 
 The Hype Curve helps separate reality from fiction.
 
-![Hype Curve](../img/tech_hype_curve.png)
-
-**Tech Hype Curve**
-
+<figure markdown>
+  ![Hype Curve](../img/hype_curve.png){width="400"}
+  <figcaption>Hype Curve</figurecaption>
+</figure>
 
 ### Points of Interest
 
