@@ -9,13 +9,13 @@ date: 2023-08-28
     The purpose of Iterative Website Development is to minimize website projects life time costs
 
 <figure markdown>
-  ![Dev Stack](../img/Iterative Website Stack vs.png){width="800"}
+  ![Dev Stack](../img/Iterative Website Stack v2.png){width="800"}
   <figcaption>Iterative Website Development Stack</figurecaption>
 </figure>
 
-# Key Technologies
+# **Key Technologies**
 
-## VSCode
+## **VSCode**
 
 Command and Control
 
@@ -25,7 +25,7 @@ Git / GitHub
 
 Command Line
 
-## Private Project Repository
+## **Local Project Repository**
 
 Developers creates a private copy of the Main Project Repository in their GitHub 
 account using the `git fork` command.
@@ -34,7 +34,7 @@ Developer use `git commit` for changes to their private copy of the Main Project
 
 Developer changes can not be directly committed to the Main Project Repository. They use the `git pull` command to request the Repository Guardian add the changes to the Main Project Repository after review and testing.
 
-## Markdown
+## **Markdown**
 
 Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. 
 
@@ -52,18 +52,11 @@ Markdown is everywhere. Websites  GitHub support Markdown, and lots of desktop a
 
 When you write in Markdown, the text is stored in a plaintext file that has an .md extension.
 
-## Local Static Site Generator
+## **Local Static Site Generator**
 
-Developers use the `Local Static Generator` built-into Material for development or a private website for stakeholders
+Developers use the `Local Static Generator` build a local website or a Private Internet Website for stakeholders
 
-Developers  Local Project Repository
-
-The
-## GitHub
-
-Notify The Content Delivery Network when a Developers or  the Repository Guardian repository has been updated
-
-## Content Delivery Network
+## **Content Delivery Network**
 
 Create and deploys website using a Static Site Generator when notified by GitHub
 
@@ -71,11 +64,15 @@ The Repository Guardian create and deploy the main project website or a private 
 
 Developers create and deploys a private preview website for stakeholders
 
-## Main Project Repository
+## **Main Project Repository**
 
-Developers do not have direct access. They can clone it but not directly commit changes
+Developers do not have direct access. They can clone it but not directly commit changes.
 
-## Repository Management
+## **GitHub**
+
+Notifies the `Content Delivery Network` when the developers Local Project Repository or Main Project Repository has been committed.
+
+## **Repository Management**
 
 The Repository Guardian and other team members evaluate and approve team members git pull requests central repository
 
