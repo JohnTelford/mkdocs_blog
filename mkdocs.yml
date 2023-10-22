@@ -2,13 +2,16 @@ theme:
   name: material
   features:
     - content.tabs.link
-    # - navigation.instant
+    - navigation.instant
     # - navigation.instant.progress
     - navitation.path
     - navigation.prune
     # - navigation.top
-    # - navigation.sections
+    - navigation.sections
     - navigation.tracking
+    # - navigation.tabs
+    # - navigation.expand
+
 
 
 

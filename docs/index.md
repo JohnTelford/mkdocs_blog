@@ -3,7 +3,7 @@ draft: true
 date: 2023-09-30
 ---
 
-# Welcome to TechTalkJohn Blog
+# 
 
 Way back when the Internet web browsers and programming languages came along, I became interested in web technologies, and began learn by doing technology deep dives. I have years of learning about the ever changing Electronics, Internet, and Software technologies. I sometimes gain a better understanding of the technologies du jour by hands-on experience.
 

@@ -28,7 +28,7 @@ Command Line
 ## **Local Project Repository**
 
 Developers creates a private copy of the Main Project Repository in their GitHub 
-account using the `git fork` command.
+account using the `GitHub processfork` command.
 
 Developer use `git commit` for changes to their private copy of the Main Project Repository
 
