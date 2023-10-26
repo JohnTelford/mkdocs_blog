@@ -95,5 +95,5 @@ Alternatives to using built-in VScode `git` commands is to use the built in term
 
 - [Introduction Videos](https://code.visualstudio.com/docs/getstarted/introvideos)
 
-??? Danger "Defects"
+??? Caution "Defects"
 	The slightest configuration, programming or security defect issues during the project will require Remediating and increasing overall lifetime costs 

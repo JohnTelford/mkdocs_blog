@@ -94,5 +94,5 @@ Everything You need to know
 
 [Importing a Git repository using the command line](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/importing-a-git-repository-using-the-command-line)
 
-??? Danger "Defects"
+??? Caution "Defects"
 	The slightest configuration, programming or security defect issues during the project will require Remediating and increasing overall lifetime costs 
