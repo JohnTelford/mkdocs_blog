@@ -109,5 +109,5 @@ When Alice or Bod think their software is ready to be included in the Main Proje
 
 - Each team member frequently deploys their work to a private [Preview](preview.md) internet website for stakeholders to quickly view and give feedback
 
-??? Danger "Remediating"
+??? Warning "Remediating"
 	The slightest configuration, programming or security defect issues during the project will require Remediating and increasing overall [Defect costs](../Category Support/defect_remediation_cost.md)
