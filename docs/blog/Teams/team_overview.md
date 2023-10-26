@@ -30,3 +30,4 @@ Reaching a [Minimum Viable Product](minimum_viable_product.md) is the first Deve
 ??? Danger "Defects"
 	The slightest configuration, programming or security defect issues during the project will require Remediating and increasing overall lifetime costs 
 
+new
