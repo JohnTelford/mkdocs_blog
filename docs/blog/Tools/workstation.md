@@ -95,5 +95,5 @@ There are computer repair services that are equipped to diagnosed and repaired W
 
 > I use apple products for exploring Internet technologies and creating web sites. It seems simpler, more reliable, secure, and supportable than building web sites with purchased or bare metal built Linux or Microsoft systems. 
 
-??? Caution "Defects"
+??? Warning "Defects"
 	The slightest configuration, programming or security defect issues during the project will require Remediating and increasing overall lifetime costs 
