@@ -17,13 +17,13 @@ date: 2023-08-28
 
 ## **VSCode**
 
-Command and Control
+- Command and Control
 
-Text Editor
+- Text Editor
 
-Git / GitHub
+- Git / GitHub
 
-Command Line
+- Command Line
 
 ## **Local Project Repository**
 
@@ -36,7 +36,7 @@ Developer changes can not be directly committed to the Main Project Repository. 
 
 ## **Markdown**
 
-Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. 
+Markdown is a lightweight markup language used to add formatting elements to plaintext text documents. 
 
 Using Markdown is different than using a WYSIWYG editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.
 
@@ -48,13 +48,15 @@ Markdown is platform independent. You can create Markdown-formatted text on any 
 
 Markdown is future proof. Even if the application you’re using stops working at some point in the future, you’ll still be able to read your Markdown-formatted text using a text editing application. This is an important consideration when it comes to books, university theses, and other milestone documents that need to be preserved indefinitely.
 
-Markdown is everywhere. Websites  GitHub support Markdown, and lots of desktop and web-based applications support it.
+Markdown is everywhere. Websites, GitHub support Markdown, and lots of desktop and web-based applications support it.
 
 When you write in Markdown, the text is stored in a plaintext file that has an .md extension.
 
 ## **Local Static Site Generator**
 
-Developers use the `Local Static Generator` build a local website or a Private Internet Website for stakeholders
+// FIXME developer generating a private website for development and a private website for stakeholders
+
+Developers use the `Local Static Generator` build a local website to see how edits would look  `program with a live website on. See edits as they happen.  MkDocs has it built in`
 
 ## **Content Delivery Network**
 
