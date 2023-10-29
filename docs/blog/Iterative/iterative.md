@@ -3,6 +3,8 @@ draft: true
 date: 2023-08-28
 ---
 
+updated: 10/28/2023
+
 # Iterative Website Development
 
 ??? abstract "Purpose"
@@ -86,11 +88,11 @@ The Repository Guardian requests Content Delivery Network to deploy a production
 
 # **Development Example**
 
-The Respiratory Guardian creates an initial Development Environment Respiratory. It contains the the configured software development environment needed to create to the Production Website. 
+The Respiratory Guardian creates an initial Development Environment Respiratory. It contains the configured software development environment needed to create to the Production Website. 
 
 The Respiratory Guardian creates the initial Main Project Respiratory. It contains the initial website file structure with basic things all developers will use with their copies, including a `git lock`  main branch.
 
-Alice and Bob are developers. They create a GitHub account. They both `git fork` the Development Environment Respiratory to their GitHub account. Then they then `git fork` their private copy of the Main Project Repository to their `GitHub` account. 
+Alice and Bob are developers. They each create a GitHub account. They both `git fork` the Development Environment Respiratory to their GitHub account. Then they then `git clone` their private copy of the Main Project Repository to their `GitHub` account. 
 
 They create directories on their workstations for the Development Environment Respiratory and Main Project Respiratory. In both directories they install `git`
 
