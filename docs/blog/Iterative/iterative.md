@@ -107,11 +107,3 @@ Every so often Alice and Bob using `git commit`, using a specific `git branch` t
 When Alice or Bod think their software is ready to be included in the Main Project Repository, they `git pull`
 
 ---
-- Iterative website development is done by different [Teams](../Category Teams/team_overview.md) with different responsibilities and skills.
- 
-- The Define, Design, Develop, Deploy and Maintenance team members create, test and [Remediating Defects](defect_remediation_cost.md)​. All team members may be operational at the same time without interfering with each other, or the production website, during the lifetime of the website
-
-- Each team member frequently deploys their work to a private [Preview](preview.md) internet website for stakeholders to quickly view and give feedback
-
-??? Warning "Remediating"
-	The slightest configuration, programming or security defect issues during the project will require Remediating and increasing overall [Defect costs](../Category Support/defect_remediation_cost.md)

@@ -9,7 +9,7 @@ Iterative website Define, Design, Develop, Deploy and Maintenance teams may be o
   ![Teams](../img/teams.png){width="400"}
   <figcaption>Development Teams </figurecaption>
 </figure>
-Reaching a [Minimum Viable Product](minimum_viable_product.md) is the first Development teams goal
+Reaching a [Minimum Viable Product](../Support/minimum_viable_product.md) is the first Development teams goal
  
 - [Team Define](team_define.md)   
   Defining websites helps the Iterative Development helps teams and Stakeholders understand the project.

@@ -6,7 +6,7 @@ title: Team - Deploy
 
 - Developers working on features, fixes, or testing may deploy a Private Preview website with their changes, without disturbing other developers work or the production version. This enables the Stakeholders to monitor progress. See Preview Deployments
 
-- The slightest errors or security issues during Deploy will require [Remediating](defect_remediation_cost.md) sometime during the life time of the website
+- The slightest errors or security issues during Deploy will require [Remediating](../Support/defect_remediation_cost.md) sometime during the life time of the website
 
 #### Deploy - Prerequisites
 

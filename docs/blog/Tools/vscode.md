@@ -10,7 +10,7 @@ title: VScode
 
 [Visual Studio Code](https://code.visualstudio.com) (VScode) is a Microsoft product and commonly referred to as VScode. It is a code editor redefined and optimized for building and debugging modern software projects. VCcode is free and available on  Linux, macOS, and Windows platforms. Developer surveys show VScode is ranked the most popular developer environment tool 
 
-Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded [git](git-github.md#git)
+Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded [git](#git)
 
 ### Git
 
@@ -33,12 +33,14 @@ The development Command And Control tasks are:
 - Some VScode extensions continually check for syntax and other errors
 - Live edit browser previews show how edits will looks on a web page
 - Built-in command shell
-  - Run [MkDocs](mkdocs.md) to create a local workstation website
+  - Run [MkDocs](https://www.mkdocs.org)) to create a local workstation website
 
 <!-- *DNC* -->
-- Use the Built-in command shell to create [preview](preview.md) to the Internet using  for Stakeholders
+- Use the Built-in command shell to create [preview](../Support/preview.md) to the Internet using  for Stakeholders
 - Deploy production website to the Internet
 - And **much** more
+
+### GitHub
 
 ### Extensions
 
@@ -51,7 +53,7 @@ View a Git Graph of your repository, and easily perform Git actions from the gra
 The default Dark+ theme, using Material's color palette
 
 - GitHub Repositories.  
-Remotely browse and edit any [GitHub](#github) repository
+Remotely browse and edit any [GitHub](https://github.com/) repository
 
 - Lorem Text Generator  
 Lorem text generator extension for [VScode](#vscode)
