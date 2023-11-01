@@ -1,0 +1,2 @@
+Build command: mkdocs build
+Publish directory: site
