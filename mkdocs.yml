@@ -12,10 +12,7 @@ theme:
     # - navigation.tabs
     - navigation.expand
 
-
-
-
-site_name: TechTalkJohn Blog
+site_name: Tech  Talk  John  Blog
 
 plugins:
   - blog:
@@ -25,7 +22,7 @@ plugins:
       # categories_name: Categories
       categories_toc: true
       post_date_format: medium
-      post_url_format: date      
+      post_url_format: date
       categories_allowed:
         - Hype Curve
         - Iterative
@@ -41,7 +38,6 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences:
-
 
 repo_url: https://github.com/JohnTelford/mkdocs_blog.git
 
