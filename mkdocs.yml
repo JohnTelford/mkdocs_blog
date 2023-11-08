@@ -11,6 +11,8 @@ theme:
     - navigation.tracking
     # - navigation.tabs
     - navigation.expand
+  palette:
+    primary: teal
 
 site_name: Tech  Talk  John  Blog
 
