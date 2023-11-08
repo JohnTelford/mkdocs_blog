@@ -15,7 +15,7 @@ updated: 10/28/2023
   <figcaption>Iterative Website Development Stack</figurecaption>
 </figure>
 
-# **Key Technologies**
+## **Key Technologies**
 
 ## **VSCode**
 
