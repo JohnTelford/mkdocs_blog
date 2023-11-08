@@ -25,7 +25,7 @@ Traditionally these companies built workstation products with Intel processors. 
 ## Apple
 
 <figure markdown>
-  ![git](../img/AppleLogo.png){width="100"}
+  ![git](../../img/AppleLogo.png){width="100"}
   <figcaption>Apple</figurecaption>
 </figure>
 
@@ -49,7 +49,7 @@ Apple continues to have the highest customer satisfaction in the industry.
 ## Linux
 
 <figure markdown>
-  ![Linux](../img/LinuxLogo.png){width="100"}
+  ![Linux](../../img/LinuxLogo.png){width="100"}
   <figcaption>Linux</figurecaption>
 </figure>
 
@@ -74,7 +74,7 @@ There are computer repair services that are equipped to diagnosed and repaired L
 ## Microsoft
 
 <figure markdown>
-  ![Linux](../img/MicrosoftLogo.png){width="100"}
+  ![Linux](../../img/MicrosoftLogo.png){width="100"}
   <figcaption>Microsoft</figurecaption>
 </figure>
 

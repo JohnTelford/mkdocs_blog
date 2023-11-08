@@ -3,7 +3,7 @@ title: Git
 ---
 
 <figure markdown>
-  ![git](../img/gitlogo.png){width="100"}
+  ![git](../../img/gitlogo.png){width="100"}
   <figcaption>Git</figurecaption>
 </figure>
 

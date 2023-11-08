@@ -8,7 +8,7 @@ title: Defect Remediation Costs​
 
 - Content and software defects cost less when found early, as this chart shows:
 
-![Defect Remediation Costs](../img/bugFixChart.jpg)
+![Defect Remediation Costs](../../img/bugFixChart.jpg)
 
 ##### Defect Remediation Costs
 

@@ -3,7 +3,7 @@ title: VScode
 ---
 
 <figure markdown>
-  ![VScode](../img/vscodelogo.png){width="100"}
+  ![VScode](../../img/vscodelogo.png){width="100"}
   <figcaption>VScode</figurecaption>
 </figure>
 
@@ -83,7 +83,7 @@ Vscode built-in git commands :
 
 ### Other Git Clients
 
-![Git Desk Top](../img/gitdesktop.png)
+![Git Desk Top](../../img/gitdesktop.png)
 
 Alternatives to using built-in VScode `git` commands is to use the built in terminal or [GitHub Desktop](https://docs.github.com/en/desktop) that abstract `gitHub` and with more `git` commands. It interacts with `GitHub` using a GUI instead of the command line or a web browser. 
 
