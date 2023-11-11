@@ -3,10 +3,13 @@ draft: true
 date: 2023-10-30
 ---
 
-Updated: 11/07/2023 v 0.0.11
+2023-11-09
 
-// TODO
-//  add mkdocs.md
+
+// TODO add mkdocs.md
+// TODO add 0README.md files
+// TODO add time to header
+
 
 Way back when the Internet web browsers and programming languages came along, I became interested in web technologies, and began learn by doing technology deep dives. I have years of learning about the ever changing Electronics, Internet, and Software technologies. I sometimes gain a better understanding of the technologies du jour by hands-on experience.
 
