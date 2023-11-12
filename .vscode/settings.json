@@ -1,7 +1,6 @@
 {
     "todo-tree.tree.scanMode": "current file",
     "files.autoSave": "afterDelay",
-    "emmet.preferences": {
-        
-    }
+    "emmet.preferences": {},
+    "explorer.sortOrder": "filesFirst"
 }

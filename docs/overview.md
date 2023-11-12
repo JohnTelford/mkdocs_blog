@@ -1,14 +1,4 @@
-
-2023-11-11
-
-// TODO add mkdocs.md
-// TODO add 0README.md files
-// TODO add time to header
-
-# Blog Table of Contents
-
-[Overview](#overview.md)
-
+# Overview
 
 Way back when the Internet web browsers and programming languages came along, I became interested in web technologies, and began learn by doing technology deep dives. I have years of learning about the ever changing Electronics, Internet, and Software technologies. I sometimes gain a better understanding of the technologies du jour by hands-on experience.
 
@@ -17,3 +7,5 @@ I have a passion pursuing what’s new and improved with these industries. Check
 
 I am an Electronics, Software, and Web Engineer specializing in website hardware and software technologies.
 
+## Blog Categories
+[Iterative development](blog/iterative development/iterative development.md)
