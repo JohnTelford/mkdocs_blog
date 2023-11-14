@@ -1,6 +1,3 @@
----
-title: VScode 
----
 
 <figure markdown>
   ![VScode](../../img/vscodelogo.png){width="100"}
