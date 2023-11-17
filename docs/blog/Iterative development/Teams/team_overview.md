@@ -4,9 +4,10 @@ title: Team - Overview
 
 Iterative website Define, Design, Develop, Deploy and Maintenance teams may be operational at the same time creating, testing, and helping with maintenance  
 
-
 <figure markdown>
-  ![Teams](../../img/teams.png){width="400"}
+  ![Teams](docs/blog/img/teams.png){width="400"}
+
+
   <figcaption>Development Teams </figurecaption>
 </figure>
 Reaching a [Minimum Viable Product](../Support/minimum_viable_product.md) is the first Development teams goal
@@ -30,4 +31,4 @@ Reaching a [Minimum Viable Product](../Support/minimum_viable_product.md) is the
 ??? Warning "Defects"
 	The slightest configuration, programming or security defect issues during the project will require Remediating and increasing overall lifetime costs 
 
-new
+

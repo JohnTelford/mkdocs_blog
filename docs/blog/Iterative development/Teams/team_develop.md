@@ -1,6 +1,3 @@
----
-title: Team - Develop
----
 
 - Translates the Define and Design teams processes into website pages 
 
@@ -14,5 +11,3 @@ title: Team - Develop
 - Decisions about static site generator and programming tools
 		
 
-??? Warning "Defects"
-	The slightest configuration, programming or security defect issues during the project will require Remediating and increasing overall lifetime costs 
