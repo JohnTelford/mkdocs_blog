@@ -1,5 +1,5 @@
 ---
-title: Team - Design
+Team - Design
 ---
 
 The core foundations of a user's website experience are:
