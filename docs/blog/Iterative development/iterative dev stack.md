@@ -1,7 +1,3 @@
----
-draft: true
-date: 2023-08-28
----
 
 updated: 10/28/2023
 

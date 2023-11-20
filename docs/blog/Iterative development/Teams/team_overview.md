@@ -4,13 +4,17 @@ title: Team - Overview
 
 Iterative website Define, Design, Develop, Deploy and Maintenance teams may be operational at the same time creating, testing, and helping with maintenance  
 
-<figure markdown>
+<!-- <figure markdown>
   ![Teams](docs/blog/img/teams.png){width="400"}
 
 
   <figcaption>Development Teams </figurecaption>
 </figure>
-Reaching a [Minimum Viable Product](../Support/minimum_viable_product.md) is the first Development teams goal
+Reaching a [Minimum Viable Product](../Support/minimum_viable_product.md) is the first Development teams goal -->
+
+<img src="docs/blog/img/teams.png" width="500" />
+
+
  
 - [Team Define](team_define.md)   
   Defining websites helps the Iterative Development helps teams and Stakeholders understand the project.
