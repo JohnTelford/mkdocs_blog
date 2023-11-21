@@ -6,6 +6,13 @@ updated: 10/28/2023
 ??? abstract "Purpose"
     The purpose of Iterative Website Development is to minimize website projects life time costs
 
+!!! note
+    This is a **note**
+    what does it say
+    more
+    
+
+
 <figure markdown>
   ![Dev Stack](../img/Iterative Website Stack v2.png){width="800"}
   <figcaption>Iterative Website Development Stack</figurecaption>

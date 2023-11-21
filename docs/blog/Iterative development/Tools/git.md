@@ -8,9 +8,9 @@ title: Git
 </figure>
 
 
-Git is the most widely used modern version control system in the world today. Git is mature, actively maintained open source project originally developed in 2005 by Linus Torvalds, the famous creator of the Linux operating system kernel. A staggering number of software projects rely on Git for version control, including commercial projects as well as open source. Developers who have worked with Git are well represented in the pool of available software development talent and it works well on a wide range of operating systems and Integrated Development Environments such as VScode.
+Git is the most widely used modern version control system in the world today. Git is mature, actively maintained open source project originally developed in 2005 by Linus Torvalds, the famous creator of the Linux operating system kernel. A staggering number of software projects rely on Git for version control, including commercial projects as well as open source. Developers who have worked with Git are well represented in the pool of available software development talent and it works well on a wide range of operating systems.
 
-Git Distributed Version Control System. Rather than have only one single place for the full version history of the software as in Git, every developer's working copy of the code is also a repository that can contain the full history of all changes.
+The Git Distributed Version Control System, rather have only one single place for the full version history of the software, using Git every developer's working copy of the code is also a repository that contain the full history of all changes.
 
 In addition to being distributed, Git has been designed with performance, security and flexibility in mind.
 
