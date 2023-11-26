@@ -12,7 +12,7 @@ Iterative website Define, Design, Develop, Deploy and Maintenance teams may be o
 </figure>
 Reaching a [Minimum Viable Product](../Support/minimum_viable_product.md) is the first Development teams goal -->
 
-<img src="docs/blog/img/teams.png" width="500" />
+<img src="../img/teams.png" width="500" />
 
 
  
